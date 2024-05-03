@@ -7,17 +7,191 @@
         {
           "title": "ElementUI 组件库",
           "icon": "/assets/icon/ElementUI.svg",
-          "url": "https://element.eleme.cn/#/zh-CN/"
+          "url": "https://element-plus.org/zh-CN/#/"
+        },
+        {
+          "title": "Avue 组件库",
+          "icon": "/assets/icon/avue.png",
+          "url": "https://avuejs.com/"
+        },
+        {
+          "title": "uni-app 插件市场",
+          "icon": "/assets/icon/uni-app_cloud.png",
+          "url": "https://ext.dcloud.net.cn/"
+        },
+        {
+          "title": "vxe-table 组件库",
+          "icon": "/assets/icon/vxe-table.png",
+          "url": "https://vxetable.cn/#/"
+        },
+        {
+          "title": "hu-tool 官方文档",
+          "icon": "/assets/icon/hutool.png",
+          "url": "https://www.hutool.cn/"
+        },
+        {
+          "title": "Lodash 中文文档",
+          "icon": "/assets/icon/loadsh.png",
+          "url": "https://www.lodashjs.com/"
+        },
+        {
+          "title": "Sa-Token 官方文档",
+          "icon": "/assets/icon/saToken.png",
+          "url": "https://sa-token.cc/"
+        },
+        {
+          "title": "vue2 官方文档",
+          "icon": "/assets/icon/vue2.png",
+          "url": "https://v2.cn.vuejs.org/"
+        },
+        {
+          "title": "阿里 maven 在线查询",
+          "icon": "/assets/icon/mvn.png",
+          "url": "https://developer.aliyun.com/mvn/search"
+        },
+        {
+          "title": "kkFileView 文件预览",
+          "icon": "/assets/icon/kkfileview.png",
+          "url": "https://kkfileview.keking.cn/zh-cn/index.html"
+        },
+        {
+          "title": "uCharts 官方文档",
+          "icon": "/assets/icon/uChart.png",
+          "url": "https://www.ucharts.cn/v2/#/"
+        },
+        {
+          "title": "Mock.js 官方文档",
+          "icon": "/assets/icon/mock.png",
+          "url": "http://mockjs.com/examples.html"
+        },
+        {
+          "title": "maven 官方仓库",
+          "icon": "/assets/icon/maven.png",
+          "url": "https://mvnrepository.com/"
+        },
+        {
+          "title": "day.js 官方仓库",
+          "icon": "/assets/icon/dayjs.png",
+          "url": "https://dayjs.gitee.io/docs/zh-CN/installation/installation"
+        },
+        {
+          "title": "npm.js 仓库",
+          "icon": "/assets/icon/npmjs.png",
+          "url": "https://www.npmjs.com/"
+        },
+        {
+          "title": "mybatis-plus 文档",
+          "icon": "/assets/icon/mybatis.svg",
+          "url": "https://baomidou.com/"
+        },
+        {
+          "title": "uni-app 文档",
+          "icon": "/assets/icon/uni-app.png",
+          "url": "https://uniapp.dcloud.net.cn/"
+        },
+        {
+          "title": "DataV 文档",
+          "icon": "/assets/icon/datav.png",
+          "url": "http://datav.jiaminghi.com/"
+        },
+        {
+          "title": "echarts 文档",
+          "icon": "/assets/icon/echarts.png",
+          "url": "https://echarts.apache.org/zh/index.html"
+        },
+        {
+          "title": "maven 中文站",
+          "icon": "/assets/icon/maven_zh.png",
+          "url": "https://echarts.apache.org/zh/index.html"
+        },
+        {
+          "title": "vuepress 中文文档",
+          "icon": "/assets/icon/vuepress.png",
+          "url": "https://v1.vuepress.vuejs.org/zh/"
         }
       ]
     },
     {
       "title": "个人空间",
-      "icon": "el-icon-data-board"
+      "icon": "el-icon-data-board",
+      "data": [
+        {
+          "title": "博客园",
+          "icon": "/assets/icon/gitee.png",
+          "url": "https://www.cnblogs.com/lidy5436"
+        },
+        {
+          "title": "Gitee 仓库",
+          "icon": "/assets/icon/cnblogs.png",
+          "url": "https://gitee.com/lidy5436"
+        },
+        {
+          "title": "有道云笔记",
+          "icon": "/assets/icon/youdao.png",
+          "url": "https://note.youdao.com/web/#/"
+        },
+        {
+          "title": "蓝湖平台",
+          "icon": "/assets/icon/lanhu.png",
+          "url": "https://lanhuapp.com/dashboard/#/"
+        },
+        {
+          "title": "github 仓库",
+          "icon": "/assets/icon/github.jpeg",
+          "url": "https://github.com/lidy5436"
+        },
+        {
+          "title": "QQ 邮箱",
+          "icon": "/assets/icon/qqMail.jpeg",
+          "url": "https://mail.qq.com/cgi-bin/frame_html"
+        },
+        {
+          "title": "CSDN 论坛",
+          "icon": "/assets/icon/csdn.png",
+          "url": "https://blog.csdn.net/m0_60321968"
+        },
+        {
+          "title": "板栗看板",
+          "icon": "/assets/icon/banlikanban.png",
+          "url": "https://www.banlikanban.com/kanban/65a67b16e90bbe7129714403"
+        }
+      ]
     },
     {
       "title": "常用工具",
-      "icon": "el-icon-coin"
+      "icon": "el-icon-coin",
+      "data": [
+        {
+          "title": "有道在线翻译",
+          "icon": "/assets/icon/youdaofanyi.png",
+          "url": "https://fanyi.youdao.com/index.html#/"
+        },
+        {
+          "title": "JSON 在线解析",
+          "icon": "/assets/icon/sojson.png",
+          "url": "https://www.sojson.com/"
+        },
+        {
+          "title": "Tools fun工具包",
+          "icon": "/assets/icon/toolsfun.png",
+          "url": "https://tools.fun/"
+        },
+        {
+          "title": "vForm 代码生成器",
+          "icon": "/assets/icon/vForm.png",
+          "url": "https://www.vform666.com/"
+        },
+        {
+          "title": "Linux 命令搜索",
+          "icon": "/assets/icon/online.png",
+          "url": "/assets/icon/linux_search.png"
+        },
+        {
+          "title": "微工具",
+          "icon": "/assets/icon/wei_gong_ju.png",
+          "url": "https://www.wetools.com/development/"
+        }
+      ]
     }
   ]
 }
