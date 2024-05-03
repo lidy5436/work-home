@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "title": "常用组件库",
+      "icon": "el-icon-folder-opened",
+      "data": [
+        {
+          "title": "ElementUI 组件库",
+          "icon": "/assets/icon/ElementUI.svg",
+          "url": "https://element.eleme.cn/#/zh-CN/"
+        }
+      ]
+    },
+    {
+      "title": "个人空间",
+      "icon": "el-icon-data-board"
+    },
+    {
+      "title": "常用工具",
+      "icon": "el-icon-coin"
+    }
+  ]
+}
