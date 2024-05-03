@@ -1,29 +1,11 @@
-# work-home
+# 个人常用书签收藏页面
 
-This template should help get you started developing with Vue 3 in Vite.
+本项目用于个人常用书签收藏。作为一个开发人员，需要再不同的组件库之间穿梭，每次都需要重新查找需要的组件，非常浪费时间。因此，我创建了这个个人常用书签收藏页面，以便快速访问我常用的组件库和工具。
 
-## Recommended IDE Setup
+这个页面包含了各种常用的前端框架、UI组件库、在线工具、文档等，。这些书签都经过了我的筛选和测试，是我认为在工作中最常用、最实用的一些工具和资源。
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+每当我要使用某个组件或者工具时，我只需要打开这个书签收藏页面，就可以快速地找到需要的内容，大大提高了我的工作效率。同时，我也可以随时更新和添加新的书签，保持这个页面的实时性和可用性。
 
-## Customize configuration
+总之，这个个人常用书签收藏页面是我工作中不可或缺的一部分，它让我更加高效地完成工作，也让我更加方便地获取所需的信息和资源。我相信，对于其他开发人员来说，这样的书签收藏页面也会有很大的帮助。
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
+### 
