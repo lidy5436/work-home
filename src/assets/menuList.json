@@ -117,12 +117,12 @@
       "data": [
         {
           "title": "博客园",
-          "icon": "/assets/icon/gitee.png",
+          "icon": "/assets/icon/cnblogs.png",
           "url": "https://www.cnblogs.com/lidy5436"
         },
         {
           "title": "Gitee 仓库",
-          "icon": "/assets/icon/cnblogs.png",
+          "icon": "/assets/icon/gitee.png",
           "url": "https://gitee.com/lidy5436"
         },
         {

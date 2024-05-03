@@ -19,7 +19,6 @@ const data = ref(menuList.data)
 <style lang="scss" scoped>
 .work-container-wrapper {
   width: 100%;
-  //height: 100%;
   min-height: 100%;
   background-color: #12181F;
   color: white;
