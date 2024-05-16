@@ -10,6 +10,11 @@
           "url": "https://element-plus.org/zh-CN/#/"
         },
         {
+          "title": "Ant Design组件库",
+          "icon": "/assets/icon/ant-design.svg",
+          "url": "https://ant-design.antgroup.com/index-cn"
+        },
+        {
           "title": "Avue 组件库",
           "icon": "/assets/icon/avue.png",
           "url": "https://avuejs.com/"
