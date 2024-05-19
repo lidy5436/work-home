@@ -40,6 +40,11 @@
           "url": "https://www.lodashjs.com/"
         },
         {
+          "title": "uView 组件库",
+          "icon": "/assets/icon/uView.png",
+          "url": "https://uviewui.com/components/intro.html"
+        },
+        {
           "title": "uCharts 官方文档",
           "icon": "/assets/icon/uChart.png",
           "url": "https://www.ucharts.cn/v2/#/"
