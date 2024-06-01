@@ -30,6 +30,11 @@
           "url": "https://ext.dcloud.net.cn/"
         },
         {
+          "title": "iconfont 图标库",
+          "icon": "/assets/icon/iconfont.svg",
+          "url": "https://www.iconfont.cn/"
+        },
+        {
           "title": "hu-tool 官方文档",
           "icon": "/assets/icon/hutool.png",
           "url": "https://www.hutool.cn/"
@@ -123,6 +128,11 @@
           "title": "vuepress 中文文档",
           "icon": "/assets/icon/vuepress.png",
           "url": "https://v1.vuepress.vuejs.org/zh/"
+        },
+        {
+          "title": "POI-TL 中文文档",
+          "icon": "/assets/icon/word.jpg",
+          "url": "https://deepoove.com/poi-tl/"
         }
       ]
     },
