@@ -179,6 +179,11 @@
           "title": "CSDN 论坛",
           "icon": "/assets/icon/csdn.png",
           "url": "https://blog.csdn.net/m0_60321968"
+        },
+        {
+          "title": "坚果云",
+          "icon": "/assets/icon/jianguoyun.png",
+          "url": "https://www.jianguoyun.com/#/"
         }
       ]
     },
