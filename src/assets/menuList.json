@@ -133,6 +133,11 @@
           "title": "POI-TL 中文文档",
           "icon": "/assets/icon/word.jpg",
           "url": "https://deepoove.com/poi-tl/"
+        },
+        {
+          "title": "REMIX ICON 图标库",
+          "icon": "/assets/icon/remixiconsvg.svg",
+          "url": "https://remixicon.com/"
         }
       ]
     },
